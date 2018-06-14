@@ -7,7 +7,5 @@
 *Vim
 *Github
 
-new stuff
-
 
 
